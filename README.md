@@ -1,4 +1,4 @@
-# Loantap: Logisttic Regression
+# Loantap: Logistics Regression
 
 
 ## Loan Default Prediction using Logistic Regression
